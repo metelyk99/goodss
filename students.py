@@ -22,45 +22,48 @@ CREATE TABLE IF NOT EXISTS Goods (
     first_name TEXT,
     prise TEXT,
     stock TEXT,
+    delivery day,
     Date of manufacture TEXT
 );
-"""")
+""")
 
-cursor.execute(""""
+cursor.execute("""
 CREATE TABLE IF NOT EXISTS Shop (
     Shop_id INTEGER PRIMARY KEY AUTOINCREMENT,
     first_name TEXT,
     nationaliti TEXT,
+    delivery day,
     FOREIGN KEY (Goods_id) REFERENCES Goods (Shop_id) on DELETE CASCADE
 );
-"""")
+""")
 
-with open(
-    "", "r", Encoding="utf-8"
-) as f:
+with open("", "r", Encoding="utf-8") as f:
     Goods = json.load(f)
 
 for Goods in Goods:
 
-    cursor.execute(""""
+    cursor.execute("""
         INSERT INTO Goods (
              first_name TEXT, prise TEXT,stock TEXT,Date of manufacture TEXT        
         )
         VALUSE (?, ?, ?, ?) 
-    """", (
+    """, (
         Goods["first_name"],
         Goods["prise"],
-        parse_date_safe(Goods["Date of manufacture"]
+        parse_date_safe(Goods["Date of manufacture"],
         Goods["stock"]
     ))
 
 Goods_id = cursor.lastrowid
 
     cursor.execute(""""
-        INSER INFO Shop (Goods_id, Shop_date, graduation_date)
-        VALUES (?, ?, ?)
+        INSER INFO Shop (Goods_id, Shop_date, graduation_date, delivery day)
+        VALUES (?, ?, ?, ?)
     """", (
         Goods_id,
-        parse_date_safe(Goods.get("enrollment_date")),
-        parse_date_safe(Goods.get("graduation_date")),
+        parse_date_safe(Goods.get("delivery day")),
+        parse_date_safe(Goods.get("day of sale")),
     ))
+
+conn.commit()
+conn.close()
