@@ -1,0 +1,410 @@
+[
+  {
+    "product_name": "Молоко 2.5%",
+    "prise": "35.50 грн",
+    "stock": "150 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-28",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Хліб пшеничний",
+    "prise": "25.00 грн",
+    "stock": "100 шт",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "Хлібобулочні вироби"
+  },
+  {
+    "product_name": "Яйця курячі С1 (10 шт)",
+    "prise": "60.00 грн",
+    "stock": "80 упаковок",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-27",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Сир твердий Гауда 500г",
+    "prise": "180.00 грн",
+    "stock": "40 шт",
+    "delivery_day": "2025-07-03",
+    "date_manufacture": "2025-06-25",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Ковбаса Докторська",
+    "prise": "120.00 грн",
+    "stock": "30 кг",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-26",
+    "department": "М'ясний відділ"
+  },
+  {
+    "product_name": "Цукор білий 1 кг",
+    "prise": "32.00 грн",
+    "stock": "200 шт",
+    "delivery_day": "2025-07-05",
+    "date_manufacture": "2025-06-20",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Олія соняшникова 0.87л",
+    "prise": "70.00 грн",
+    "stock": "70 шт",
+    "delivery_day": "2025-07-04",
+    "date_manufacture": "2025-06-18",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Борошно пшеничне 2 кг",
+    "prise": "45.00 грн",
+    "stock": "60 шт",
+    "delivery_day": "2025-07-03",
+    "date_manufacture": "2025-06-22",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Чай чорний в пакетиках (25 шт)",
+    "prise": "55.00 грн",
+    "stock": "90 упаковок",
+    "delivery_day": "2025-07-06",
+    "date_manufacture": "2025-06-15",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Кава розчинна 100г",
+    "prise": "110.00 грн",
+    "stock": "50 шт",
+    "delivery_day": "2025-07-07",
+    "date_manufacture": "2025-06-10",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Рис довгозерний 1 кг",
+    "prise": "38.00 грн",
+    "stock": "120 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-25",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Макарони спагеті 500г",
+    "prise": "28.00 грн",
+    "stock": "130 шт",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-26",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Картопля 1 кг",
+    "prise": "15.00 грн",
+    "stock": "300 кг",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-27",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Цибуля ріпчаста 1 кг",
+    "prise": "12.00 грн",
+    "stock": "250 кг",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-27",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Морква 1 кг",
+    "prise": "18.00 грн",
+    "stock": "200 кг",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-27",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Яблука сезонні 1 кг",
+    "prise": "22.00 грн",
+    "stock": "180 кг",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-28",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Банани 1 кг",
+    "prise": "40.00 грн",
+    "stock": "100 кг",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-26",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Апельсини 1 кг",
+    "prise": "30.00 грн",
+    "stock": "90 кг",
+    "delivery_day": "2025-07-03",
+    "date_manufacture": "2025-06-25",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Йогурт питний 1%",
+    "prise": "28.00 грн",
+    "stock": "70 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-28",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Сметана 20% 400г",
+    "prise": "40.00 грн",
+    "stock": "60 шт",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-27",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Вершкове масло 82.5% 200г",
+    "prise": "75.00 грн",
+    "stock": "50 шт",
+    "delivery_day": "2025-07-03",
+    "date_manufacture": "2025-06-26",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Кефір 2.5% 900г",
+    "prise": "38.00 грн",
+    "stock": "80 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-28",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Сир кисломолочний 9% 300г",
+    "prise": "50.00 грн",
+    "stock": "45 шт",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-27",
+    "department": "Молочний відділ"
+  },
+  {
+    "product_name": "Хліб житній",
+    "prise": "28.00 грн",
+    "stock": "90 шт",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "Хлібобулочні вироби"
+  },
+  {
+    "product_name": "Батон нарізний",
+    "prise": "20.00 грн",
+    "stock": "110 шт",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "Хлібобулочні вироби"
+  },
+  {
+    "product_name": "Печиво вівсяне 300г",
+    "prise": "40.00 грн",
+    "stock": "75 упаковок",
+    "delivery_day": "2025-07-04",
+    "date_manufacture": "2025-06-20",
+    "department": "Кондитерські вироби"
+  },
+  {
+    "product_name": "Шоколад молочний 90г",
+    "prise": "35.00 грн",
+    "stock": "100 шт",
+    "delivery_day": "2025-07-05",
+    "date_manufacture": "2025-06-15",
+    "department": "Кондитерські вироби"
+  },
+  {
+    "product_name": "Цукерки асорті 200г",
+    "prise": "80.00 грн",
+    "stock": "60 упаковок",
+    "delivery_day": "2025-07-06",
+    "date_manufacture": "2025-06-18",
+    "department": "Кондитерські вироби"
+  },
+  {
+    "product_name": "Вода мінеральна газована 1.5л",
+    "prise": "18.00 грн",
+    "stock": "150 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-20",
+    "department": "Напої"
+  },
+  {
+    "product_name": "Сік яблучний 1л",
+    "prise": "30.00 грн",
+    "stock": "100 шт",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-22",
+    "department": "Напої"
+  },
+  {
+    "product_name": "Кока-Кола 2л",
+    "prise": "45.00 грн",
+    "stock": "80 шт",
+    "delivery_day": "2025-07-03",
+    "date_manufacture": "2025-06-19",
+    "department": "Напої"
+  },
+  {
+    "product_name": "Пиво світле 0.5л",
+    "prise": "28.00 грн",
+    "stock": "120 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-25",
+    "department": "Алкогольні напої"
+  },
+  {
+    "product_name": "Вино червоне сухе 0.75л",
+    "prise": "150.00 грн",
+    "stock": "40 шт",
+    "delivery_day": "2025-07-04",
+    "date_manufacture": "2024-10-10",
+    "department": "Алкогольні напої"
+  },
+  {
+    "product_name": "Капуста білокачанна 1 кг",
+    "prise": "10.00 грн",
+    "stock": "180 кг",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-27",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Огірки 1 кг",
+    "prise": "25.00 грн",
+    "stock": "100 кг",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Помідори 1 кг",
+    "prise": "35.00 грн",
+    "stock": "90 кг",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Перець солодкий 1 кг",
+    "prise": "40.00 грн",
+    "stock": "70 кг",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-27",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Баклажани 1 кг",
+    "prise": "30.00 грн",
+    "stock": "60 кг",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-26",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Кабачки 1 кг",
+    "prise": "20.00 грн",
+    "stock": "80 кг",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-28",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Ягоди полуниця 500г",
+    "prise": "60.00 грн",
+    "stock": "50 упаковок",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "Овочі та фрукти"
+  },
+  {
+    "product_name": "Хлібці рисові",
+    "prise": "22.00 грн",
+    "stock": "40 шт",
+    "delivery_day": "2025-07-05",
+    "date_manufacture": "2025-06-20",
+    "department": "Дієтичні продукти"
+  },
+  {
+    "product_name": "Морозиво пломбір 400г",
+    "prise": "65.00 грн",
+    "stock": "60 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-25",
+    "department": "Заморожені продукти"
+  },
+  {
+    "product_name": "Піца заморожена Маргарита",
+    "prise": "90.00 грн",
+    "stock": "30 шт",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-20",
+    "department": "Заморожені продукти"
+  },
+  {
+    "product_name": "Курка охолоджена 1.5 кг",
+    "prise": "100.00 грн",
+    "stock": "50 шт",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "М'ясний відділ"
+  },
+  {
+    "product_name": "Фарш свинний 500г",
+    "prise": "70.00 грн",
+    "stock": "40 шт",
+    "delivery_day": "2025-06-29",
+    "date_manufacture": "2025-06-28",
+    "department": "М'ясний відділ"
+  },
+  {
+    "product_name": "Сосиски Молочні",
+    "prise": "85.00 грн",
+    "stock": "60 упаковок",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-06-27",
+    "department": "М'ясний відділ"
+  },
+  {
+    "product_name": "Риба заморожена Хек",
+    "prise": "95.00 грн",
+    "stock": "35 кг",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-06-20",
+    "department": "Рибний відділ"
+  },
+  {
+    "product_name": "Консерви горошок зелений",
+    "prise": "25.00 грн",
+    "stock": "100 шт",
+    "delivery_day": "2025-07-05",
+    "date_manufacture": "2024-05-10",
+    "department": "Консервація"
+  },
+  {
+    "product_name": "Томатна паста 250г",
+    "prise": "30.00 грн",
+    "stock": "90 шт",
+    "delivery_day": "2025-07-06",
+    "date_manufacture": "2024-08-12",
+    "department": "Консервація"
+  },
+  {
+    "product_name": "Сіль кухонна 1 кг",
+    "prise": "12.00 грн",
+    "stock": "180 шт",
+    "delivery_day": "2025-07-01",
+    "date_manufacture": "2025-01-01",
+    "department": "Бакалія"
+  },
+  {
+    "product_name": "Перець чорний мелений 10г",
+    "prise": "15.00 грн",
+    "stock": "100 шт",
+    "delivery_day": "2025-07-02",
+    "date_manufacture": "2025-03-15",
+    "department": "Спеції"
+  }
+]
